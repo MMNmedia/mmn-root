@@ -1,5 +1,13 @@
 # MMN Network Bible
 
+## Contents
+
+- [Domains](#domains)
+    - [MMN Owned and Operated](#mmn-owned-and-operated)
+    - [Clients](#clients)
+- [Tools](#tools)
+- [Domain Config](#domain-config)
+
 ## Domains
 
 ### MMN Owned and Operated
@@ -18,3 +26,6 @@
 * whatcanido.org.uk
 * your80s.co.uk
 
+## Domain Config
+
+### Generic
